@@ -19,7 +19,7 @@ The project focuses on understanding core programming and problem-solving concep
 
 ## How to Run the Program
 1. Clone the repository  
-   git clone https://github.com/your-username/snake-game-dsa-python.git
+   https://github.com/Sak12345641/snake-game-dsa-python/tree/main
 
 2. Navigate to the project folder  
    cd snake-game-dsa-python
